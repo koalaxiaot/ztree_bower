@@ -1,0 +1,22 @@
+{
+  "name": "zTree",
+  "version": "3.5.23",
+  "description": "ztree for bower version",
+  "main": [
+      "js/jquery.ztree.all.js",
+      "css/zTreeStyle/zTreeStyle.css"
+  ],
+  "keywords": [
+    "ztree",
+    "bower"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
